@@ -1,7 +1,7 @@
 import iapp_ai
 
 def generate_and_play_audio(text):
-    apikey = 'YWa92l0PnnG3ViGTtiZfdtJTiaro6iCG' #YWa92l0PnnG3ViGTtiZfdtJTiaro6iCG
+    apikey = '' 
 
     api = iapp_ai.api(apikey)
 
@@ -12,5 +12,3 @@ def generate_and_play_audio(text):
         f.write(response.content)
 
     return True
-
-# generate_and_play_audio("สภาพอากาศ")

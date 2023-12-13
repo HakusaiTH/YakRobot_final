@@ -11,10 +11,10 @@ import firebase_admin
 from firebase_admin import credentials, db, storage
 
 # Initialize Firebase
-cred = credentials.Certificate('D:\\sanbot_final\\pythonbackend\\my-robot-9fdff-firebase-adminsdk-37upn-709ad75796.json')
+cred = credentials.Certificate('... .json')
 app = firebase_admin.initialize_app(cred, {
-    'storageBucket': 'my-robot-9fdff.appspot.com',
-    'databaseURL': 'https://my-robot-9fdff-default-rtdb.asia-southeast1.firebasedatabase.app/'
+    'storageBucket': '... appspot.com',
+    'databaseURL': '... firebasedatabase.app/'
 })
 
 user_room = "A1"

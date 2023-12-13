@@ -46,10 +46,3 @@ def handle_iot_intent(response):
     sta = parameters.get('sta', None)
 
     return [value, sta]
-
-# print(detect_intent("ปิดไฟภายในห้อง"))
-
-    '''
-        if re_intent == INTENT_CALL_YAK: 
-        return "yak"
-    '''

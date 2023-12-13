@@ -1,0 +1,35 @@
+{
+  "bookings": {
+    "test1": {
+      "checkIn": "2023-09-16",
+      "checkOut": "2023-09-26T20:00 ",
+      "name": "phoovadet",
+      "roomID": "A1"
+    }
+  },
+  "room": {
+    "A1": {
+      "Robot": {
+        "dht": 30,
+        "door_status": {
+          "img_url": "https://i.ibb.co/7Vp1KWF/photo-20231213184936.jpg",
+          "sta": "OFF"
+        },
+        "robot_status": {
+          "alert": "OFF",
+          "sentiment": "H",
+          "talk_status": false
+        },
+        "video_call": {
+          "link_call": "",
+          "status_call": false
+        }
+      },
+      "air": 10,
+      "led_1": "OFF",
+      "led_2": "OFF",
+      "led_3": "OFF",
+      "tv": 0
+    }
+  }
+}

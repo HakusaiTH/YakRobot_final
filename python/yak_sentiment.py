@@ -5,7 +5,7 @@ def analyze_sentiment(text):
 
     payload = {}
     headers = {
-        'apikey': 'YWa92l0PnnG3ViGTtiZfdtJTiaro6iCG'
+        'apikey': ''
     }
 
     response = requests.request("POST", url, headers=headers, data=payload)

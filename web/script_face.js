@@ -2,14 +2,7 @@ alert("robot online complet!");
 console.log("robot online");
 
 const firebaseConfig = {
-    apiKey: "AIzaSyAfm-wnbuOAVQESBQASW6iyULVu6-Epr3M",
-    authDomain: "my-robot-9fdff.firebaseapp.com",
-    databaseURL: "https://my-robot-9fdff-default-rtdb.asia-southeast1.firebasedatabase.app",
-    projectId: "my-robot-9fdff",
-    storageBucket: "my-robot-9fdff.appspot.com",
-    messagingSenderId: "989347540267",
-    appId: "1:989347540267:web:cfbfa6664cc4e5d2f0e96e",
-    measurementId: "G-LXEWXSLQC5"
+    // ... 
 };
 
 firebase.initializeApp(firebaseConfig);

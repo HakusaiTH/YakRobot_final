@@ -5,6 +5,5 @@
 ![5](https://github.com/HakusaiTH/YakRobot_final/assets/104154862/73c12ec1-6cbd-482b-909e-bb42269d4e66)
 ![6](https://github.com/HakusaiTH/YakRobot_final/assets/104154862/24f40883-64c5-4f31-ae26-3e4b6b91b3b9)
 ![7](https://github.com/HakusaiTH/YakRobot_final/assets/104154862/e999f8fb-b398-40fe-81f7-7fbce2c94b79)
-![8](https://github.com/HakusaiTH/YakRobot_final/assets/104154862/1d6c1f00-242f-42d3-849d-b5a060a30901)
 ![9](https://github.com/HakusaiTH/YakRobot_final/assets/104154862/02fa2dae-610e-48c1-ad78-fd806fb70ffd)
 ![10](https://github.com/HakusaiTH/YakRobot_final/assets/104154862/8d2d21af-2c47-4bb0-b05b-3ceb774f8fba)
